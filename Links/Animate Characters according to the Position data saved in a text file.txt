@@ -1,0 +1,57 @@
+
+
+
+Is it possible to upload a text file to animate a 3d object?
+https://forum.unity.com/threads/is-it-possible-to-upload-a-text-file-to-animate-a-3d-object.418191/
+
+
+
+
+C# Problem reading txt file and transforming files lines in vercor3
+https://forum.unity.com/threads/c-problem-reading-txt-file-and-transforming-files-lines-in-vercor3.200281/
+
+
+
+
+visualize movement Just in time
+https://forum.unity.com/threads/visualize-movement-just-in-time.416507/
+
+
+
+In Unity3d, How can I read the position data from .txt file continuously?
+https://forum.unity.com/threads/in-unity3d-how-can-i-read-the-position-data-from-txt-file-continuously.408097/
+
+
+
+How to update 100 cars position from pre-set coordinates every 0.1 second?
+https://answers.unity.com/questions/1455226/how-to-update-100-cars-position-from-pre-set-coord.html
+
+
+
+move GameObject through array of position vectors (using waypoints?)
+https://forum.unity.com/threads/move-gameobject-through-array-of-position-vectors-using-waypoints.557899/
+
+
+Move Gameobject generating Objects based on Data
+https://stackoverflow.com/questions/52718886/move-gameobject-generating-objects-based-on-data
+
+
+move GameObject through array of position vectors (using waypoints?)
+https://forum.unity.com/threads/move-gameobject-through-array-of-position-vectors-using-waypoints.557899/
+
+
+
+
+
+
+https://www.codegrepper.com/code-examples/csharp/unity+how+to+move+an+object
+
+
+Taking data from text file
+https://answers.unity.com/questions/231221/taking-data-from-text-file.html
+
+
+
+
+Transforming Objects Movement Using C# Scripts In Unity
+https://www.c-sharpcorner.com/article/transforming-objects-movement-using-c-sharp-scripts-in-unity/

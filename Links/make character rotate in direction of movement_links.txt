@@ -1,0 +1,109 @@
+
+
+How to make character rotate in direction of movement?
+https://answers.unity.com/questions/1065763/how-to-make-character-rotate-in-direction-of-movem.html
+
+
+
+Face forward direction of movement
+https://answers.unity.com/questions/46845/face-forward-direction-of-movement.html
+
+
+Checking rotation direction
+https://forum.unity.com/threads/checking-rotation-direction.437670/
+
+
+
+Proper Velocity-Based Movement 101
+https://forum.unity.com/threads/proper-velocity-based-movement-101.462598/
+
+
+
+How to make character rotate in the direction of movement and direction of the camera?
+https://answers.unity.com/questions/1409883/how-to-make-character-rotate-in-the-direction-of-m.html
+
+
+
+https://github.com/gantzy/gatsby-starter-foundation/blob/876a2def0de6105cd66178a379ce9a0fca1eeaa8/src/content/posts/2021-03-01-moba-style-movement-with-unity-character-rotation.md
+
+
+
+
+Unity C# : Character Control - Rotate and move forward
+https://www.youtube.com/watch?v=VslgzNfibhs&ab_channel=aboutgamemaking
+
+
+
+How to make character face direction of travel?
+https://stackoverflow.com/questions/58027133/how-to-make-character-face-direction-of-travel
+
+
+
+Rotating Character
+https://answers.unity.com/questions/129411/rotating-character.html
+
+
+
+Rotate character to face direction of movement
+https://answers.unity.com/questions/622608/rotate-character-to-face-direction-of-movement.html
+
+
+
+How do I face my character in the direction the player is moving?
+https://answers.unity.com/questions/432876/how-do-i-face-my-character-in-the-direction-the-pl.html
+
+
+
+
+Have a character face their moving direction?
+https://answers.unity.com/questions/46970/have-a-character-face-their-moving-direction.html
+
+
+Get character to face direction of movement C#
+https://forum.unity.com/threads/get-character-to-face-direction-of-movement-c.186910/
+
+
+Unity NavMesh Tutorial - Animated Character
+https://www.youtube.com/watch?v=blPglabGueM&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=31&ab_channel=Brackeys
+
+
+Unity 2019 Rotate To Direction Movement
+https://www.youtube.com/watch?v=1xsiP5IEN4g&ab_channel=DDreamingGame
+
+
+
+Rotating in the Direction of Movement 2D (Unity Tutorial)
+https://www.youtube.com/watch?v=gs7y2b0xthU&ab_channel=KetraGames
+
+
+
+Rotating a Character in the Direction of Movement (Unity Tutorial)
+https://www.youtube.com/watch?v=BJzYGsMcy8Q&ab_channel=KetraGames
+
+
+
+
+Unity FPS Tutorial #6 - Rotate Character in the Direction of Movement
+https://www.youtube.com/watch?v=MZF_cYu48rg&ab_channel=CodeProf
+
+
+
+
+REALISTIC Foot Placement Using IK in Unity
+https://www.youtube.com/watch?v=rGB1ipH6DrM&t=1580s&ab_channel=b3agz
+
+
+
+
+Character Controller Not Moving in the Direction its Facing
+https://forum.unity.com/threads/character-controller-not-moving-in-the-direction-its-facing.478445/
+
+
+
+
+how to CORRECTLY position and rotate a gameobject in unity
+https://answers.unity.com/questions/991257/differences-between-the-various-ways-of-rotating-a.html
+
+
+Unity Open World #17 - Smooth Rotation Towards Movement Direction
+https://www.youtube.com/watch?v=Hl92EYdm02o&ab_channel=CodeLikeMe_Unity

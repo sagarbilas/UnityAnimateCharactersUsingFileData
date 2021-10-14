@@ -1,0 +1,24 @@
+
+
+
+1D Animation Blend Trees Explained (Unity Tutorial)
+https://www.youtube.com/watch?v=a3CoTgOx5hY&list=PLx7AKmQhxJFaBjiP5uxv7pJ_T2lMIZOBD&index=3&ab_channel=KetraGames
+
+
+
+How to Animate Characters in Unity 3D | Blend Trees Explained: One Dimensional
+https://www.youtube.com/watch?v=m8rGyoStfgQ&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO&index=4&ab_channel=iHeartGameDev
+
+
+
+Change the speed of animation at runtime in unity c#
+https://stackoverflow.com/questions/39524914/change-the-speed-of-animation-at-runtime-in-unity-c-sharp
+
+
+
+#17 Blend Trees in Unity - Part 6 (Adding Triggers Attack)
+https://www.youtube.com/watch?v=ilIkW_-z3H0&list=PLy257TzJCEnb0zesULkA85CYJ63j_tqu3&index=20&ab_channel=DavidBlissett
+
+
+Unity C# : Character Control - Rotate and move forward
+https://www.youtube.com/watch?v=VslgzNfibhs&ab_channel=aboutgamemaking
