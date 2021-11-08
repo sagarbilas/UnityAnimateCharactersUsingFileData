@@ -3,4 +3,7 @@ This project is to animate multiple characters using position values taken from 
 
 
 
-![5tdrqw](https://user-images.githubusercontent.com/13379995/140742072-60330942-8a7a-4662-afcf-2c1c56f24844.gif)
+
+
+https://user-images.githubusercontent.com/13379995/140742144-0956e449-af0e-414a-99c1-5fc1fdc9f6fd.mp4
+
